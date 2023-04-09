@@ -1,0 +1,22 @@
+.bg-color{
+    background-color: #ce9d7d;
+}
+.bg-opening{
+    background-image: url(assets/alyssa-strohmann-TS--uNw-JqE-unsplash.jpg);
+}
+.font-hs{
+    color: rgb(255, 250, 238);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav-link:hover{
+    color: #ce9d7d !important; 
+}
+.btn:not(.nav-btns button){
+    background-color: khaki !important;
+    padding: 10px 28px;
+    border-radius: 25px;
+    border: 1px solid rgb(255, 250, 238)
+}
+.btn:not(.nav-btns button):hover{
+    background-color: white !important;
+}
